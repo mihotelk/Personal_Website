@@ -1,0 +1,77 @@
+---
+title: "Projects"
+---
+
+## Graduate-Level Projects
+
+Below are selected projects demonstrating my experience in data analysis, biostatistics, and AI-driven public health applications.
+
+---
+
+<div class="project-card">
+
+<h3>LLM-Powered WASH Risk Assessment System</h3>
+
+<p>
+This project develops a conversational survey system that uses large language models to collect household-level water, sanitation, and hygiene (WASH) risk factors. The system supports adaptive questioning, structured data extraction, response validation, and interpretable risk scoring.
+</p>
+
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>Multi-domain risk framework (demographics, WASH behavior, environmental factors)</li>
+<li>Real-time conversational data collection</li>
+<li>Structured JSON output for risk scoring</li>
+<li>Simulation-based evaluation for consistency and robustness</li>
+</ul>
+
+<p><strong>Tools:</strong> Python, Gradio, GPT-4o, Pydantic AI</p>
+
+<a class="button-primary" href="https://github.com/mihotelk/risk-profiler" target="_blank">View on GitHub</a>
+
+</div>
+
+---
+
+<div class="project-card">
+
+<h3>Cancer Symptom-Management RAG System</h3>
+
+<p>
+This project builds a retrieval-augmented generation (RAG) system to support personalized cancer symptom-management recommendations. It integrates patient context, symptom severity, and treatment phase to generate tailored outputs.
+</p>
+
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>Multi-stage pipeline including retrieval and ranking</li>
+<li>Comparison of multiple LLMs under a unified evaluation protocol</li>
+<li>Focus on relevance, consistency, and usability</li>
+</ul>
+
+<p><strong>Tools:</strong> Python, RAG, MMR retrieval, LLM benchmarking</p>
+
+<a class="button-primary" href="https://github.com/mihotelk/APE_RAG" target="_blank">View on GitHub</a>
+
+</div>
+
+---
+
+<div class="project-card">
+
+<h3>Dietary Assessment using Large Language Models</h3>
+
+<p>
+This project evaluates the ability of large language models and multimodal AI systems to assess dietary intake based on user-provided text descriptions and images.
+</p>
+
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>Text-based and image-based dietary evaluation</li>
+<li>Comparison across multiple LLMs and multimodal models</li>
+<li>Standardized prompts for fair benchmarking</li>
+</ul>
+
+<p><strong>Tools:</strong> GPT-4.1, Claude, DeepSeek, LLaVA</p>
+
+<a class="button-primary" href="https://github.com/mihotelk/DietAI24_Eval" target="_blank">View on GitHub</a>
+
+</div>

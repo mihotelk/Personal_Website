@@ -1,15 +1,60 @@
 ---
-title: "Personal website"
-author: "Ruigang Jiang"
-date: "`r Sys.Date()`"
-output: html_document
+title: "Home"
 ---
 
+<div class="hero-section">
 
+<div class="hero-text">
 
+# Ruigang Jiang
 
+### MPH Biostatistics Student | Data Analysis | AI for Public Health
 
+I am a Master of Public Health student in Biostatistics at Emory University, Rollins School of Public Health. My academic and professional interests focus on data analysis, statistical programming, public health research, and the application of large language models in health-related projects.
 
+My recent work includes LLM-powered public health tools, retrieval-augmented generation systems, dietary assessment using AI models, and interactive data visualization. I am especially interested in using data-driven methods to support better decision-making in healthcare and public health.
 
+<a class="button-primary" href="resume.html">View My Resume</a>
+<a class="button-secondary" href="projects.html">View Projects</a>
 
+</div>
 
+<div class="hero-photo">
+
+<img src="images/profile.jpg" alt="Profile photo">
+
+</div>
+
+<div class="hero-card">
+
+<h3>Contact</h3>
+
+<p><strong>Email:</strong> rjian69@emory.edu</p>
+<p><strong>Location:</strong> Atlanta, GA</p>
+<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ruigang-jiang-68bb002ab/" target="_blank">Ruigang Jiang</a></p>
+<p><strong>GitHub:</strong> <a href="https://github.com/mihotelk" target="_blank">mihotelk</a></p>
+
+</div>
+
+</div>
+
+## Professional Interests
+
+<div class="card-container">
+
+<div class="info-card">
+<h3>Biostatistics</h3>
+<p>Statistical analysis, public health data interpretation, and applied research methods.</p>
+</div>
+
+<div class="info-card">
+<h3>Data Analysis</h3>
+<p>Cleaning, analyzing, and visualizing complex datasets to generate practical insights.</p>
+</div>
+
+<div class="info-card">
+<h3>AI for Public Health</h3>
+<p>Using large language models and retrieval-based systems to support health-related applications.</p>
+</div>
+
+</div>
