@@ -10,9 +10,9 @@ title: "Home"
 
 ### MPH Biostatistics Student | Data Analysis | AI for Public Health
 
-I am a Master of Public Health student in Biostatistics at Emory University, Rollins School of Public Health. My academic and professional interests focus on data analysis, statistical programming, public health research, and the application of large language models in health-related projects.
+I am a Master of Public Health student in Biostatistics at Emory University, Rollins School of Public Health. My work focuses on using statistical methods, data analysis, and artificial intelligence to address real-world public health challenges.
 
-My recent work includes LLM-powered public health tools, retrieval-augmented generation systems, dietary assessment using AI models, and interactive data visualization. I am especially interested in using data-driven methods to support better decision-making in healthcare and public health.
+I am especially interested in building practical, data-driven tools that support healthcare decision-making, public health communication, and risk assessment. My recent projects include LLM-powered public health tools, retrieval-augmented generation systems, dietary assessment using AI models, and interactive data visualization.
 
 <a class="button-primary" href="resume.html">View My Resume</a>
 <a class="button-secondary" href="projects.html">View Projects</a>
@@ -38,23 +38,33 @@ My recent work includes LLM-powered public health tools, retrieval-augmented gen
 
 </div>
 
+## What I Do
+
+<div class="info-card">
+
+<p>
+I combine biostatistics, data analysis, and AI methods to transform complex health-related data into clear, actionable insights. My goal is to develop tools and analyses that are useful not only for researchers, but also for public health practitioners, healthcare teams, and communities.
+</p>
+
+</div>
+
 ## Professional Interests
 
 <div class="card-container">
 
 <div class="info-card">
 <h3>Biostatistics</h3>
-<p>Statistical analysis, public health data interpretation, and applied research methods.</p>
+<p>Applying statistical methods to understand health outcomes, evaluate evidence, and support public health research.</p>
 </div>
 
 <div class="info-card">
 <h3>Data Analysis</h3>
-<p>Cleaning, analyzing, and visualizing complex datasets to generate practical insights.</p>
+<p>Cleaning, analyzing, and visualizing complex datasets to communicate meaningful patterns and insights.</p>
 </div>
 
 <div class="info-card">
 <h3>AI for Public Health</h3>
-<p>Using large language models and retrieval-based systems to support health-related applications.</p>
+<p>Using large language models and retrieval-based systems to build practical tools for health-related decision support.</p>
 </div>
 
 </div>

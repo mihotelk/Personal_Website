@@ -62,10 +62,17 @@ h1, h2, h3 {
   border-radius: 14px;
   border-left: 6px solid #2c7fb8;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .info-card {
   flex: 1;
+}
+
+.info-card:hover,
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 7px 18px rgba(0, 0, 0, 0.12);
 }
 
 .project-card h3 {
@@ -82,6 +89,7 @@ h1, h2, h3 {
   border-radius: 8px;
   text-decoration: none;
   font-weight: 600;
+  transition: transform 0.2s ease, background-color 0.2s ease;
 }
 
 .button-primary {
@@ -92,6 +100,7 @@ h1, h2, h3 {
 .button-primary:hover {
   background-color: #1f5f8b;
   text-decoration: none;
+  transform: scale(1.04);
 }
 
 .button-secondary {
@@ -103,6 +112,7 @@ h1, h2, h3 {
 .button-secondary:hover {
   background-color: #e6f2fa;
   text-decoration: none;
+  transform: scale(1.04);
 }
 
 .navbar {
@@ -120,7 +130,9 @@ iframe {
   }
 
   .hero-text,
-  .hero-card {
+  .hero-card,
+  .hero-photo {
+    width: 100%;
     padding: 22px;
   }
 
@@ -130,5 +142,12 @@ iframe {
 
   .hero-photo img {
     max-width: 220px;
+  }
+
+  .button-primary,
+  .button-secondary {
+    display: block;
+    width: fit-content;
+    margin-bottom: 10px;
   }
 }

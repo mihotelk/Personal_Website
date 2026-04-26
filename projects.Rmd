@@ -13,15 +13,19 @@ Below are selected projects demonstrating my experience in data analysis, biosta
 <h3>LLM-Powered WASH Risk Assessment System</h3>
 
 <p>
-This project develops a conversational survey system that uses large language models to collect household-level water, sanitation, and hygiene (WASH) risk factors. The system supports adaptive questioning, structured data extraction, response validation, and interpretable risk scoring.
+Access to safe water, sanitation, and hygiene (WASH) remains a major public health challenge, particularly in resource-limited settings. Traditional surveys often fail to capture real-time household conditions and lack adaptability.
+</p>
+
+<p>
+This project develops a conversational survey system powered by large language models to dynamically collect household-level WASH risk factors. The system supports adaptive questioning, structured data extraction, response validation, and interpretable risk scoring.
 </p>
 
 <p><strong>Key Features:</strong></p>
 <ul>
-<li>Multi-domain risk framework (demographics, WASH behavior, environmental factors)</li>
-<li>Real-time conversational data collection</li>
-<li>Structured JSON output for risk scoring</li>
-<li>Simulation-based evaluation for consistency and robustness</li>
+<li>Adaptive, conversation-based data collection</li>
+<li>Multi-domain risk assessment framework</li>
+<li>Structured outputs for downstream analysis</li>
+<li>Simulation-based evaluation of consistency and robustness</li>
 </ul>
 
 <p><strong>Tools:</strong> Python, Gradio, GPT-4o, Pydantic AI</p>
@@ -37,13 +41,17 @@ This project develops a conversational survey system that uses large language mo
 <h3>Cancer Symptom-Management RAG System</h3>
 
 <p>
-This project builds a retrieval-augmented generation (RAG) system to support personalized cancer symptom-management recommendations. It integrates patient context, symptom severity, and treatment phase to generate tailored outputs.
+Cancer patients often face complex symptom management challenges, and access to personalized, timely information is critical for improving quality of care.
+</p>
+
+<p>
+This project builds a retrieval-augmented generation (RAG) system to support personalized symptom-management recommendations. The system integrates patient context, symptom severity, and treatment phase to generate tailored outputs.
 </p>
 
 <p><strong>Key Features:</strong></p>
 <ul>
-<li>Multi-stage pipeline including retrieval and ranking</li>
-<li>Comparison of multiple LLMs under a unified evaluation protocol</li>
+<li>Multi-stage retrieval and ranking pipeline</li>
+<li>Evaluation of multiple LLMs under a unified protocol</li>
 <li>Focus on relevance, consistency, and usability</li>
 </ul>
 
@@ -60,14 +68,18 @@ This project builds a retrieval-augmented generation (RAG) system to support per
 <h3>Dietary Assessment using Large Language Models</h3>
 
 <p>
-This project evaluates the ability of large language models and multimodal AI systems to assess dietary intake based on user-provided text descriptions and images.
+Accurately assessing dietary intake is essential for nutrition research and public health, but traditional methods are often time-consuming and prone to reporting bias.
+</p>
+
+<p>
+This project evaluates whether large language models and multimodal AI systems can assess dietary intake based on user-provided text descriptions and food images. The study compares multiple models under standardized prompts.
 </p>
 
 <p><strong>Key Features:</strong></p>
 <ul>
 <li>Text-based and image-based dietary evaluation</li>
 <li>Comparison across multiple LLMs and multimodal models</li>
-<li>Standardized prompts for fair benchmarking</li>
+<li>Standardized evaluation framework</li>
 </ul>
 
 <p><strong>Tools:</strong> GPT-4.1, Claude, DeepSeek, LLaVA</p>
