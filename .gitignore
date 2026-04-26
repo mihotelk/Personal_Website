@@ -1,0 +1,23 @@
+# RStudio files
+.Rproj.user/
+
+# macOS system files
+.DS_Store
+
+# R history
+.Rhistory
+.RData
+
+# Quarto / R Markdown cache
+*_cache/
+*_files/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Optional: keep docs folder (DO NOT ignore docs!)
+# docs/
