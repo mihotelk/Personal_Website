@@ -29,7 +29,7 @@ I am especially interested in building practical, data-driven tools that support
 
 <h3>Contact</h3>
 
-<p><strong>Email:</strong> rjian69@emory.edu</p>
+<p><strong>Email:</strong> ruigang.jiang@alumni.emory.edu</p>
 <p><strong>Location:</strong> Atlanta, GA</p>
 <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ruigang-jiang-68bb002ab/" target="_blank">Ruigang Jiang</a></p>
 <p><strong>GitHub:</strong> <a href="https://github.com/mihotelk" target="_blank">mihotelk</a></p>
